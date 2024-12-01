@@ -2,7 +2,7 @@ import React from "react";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 // import projectsData from "../utils/data/project.js";
 import EasyShop from "../assets/images/projects/EasyShop.png";
-import ChatNest from "../assets/images/projects/chatNest.png";
+import ChatNest from "../assets/images/projects/ChatNest.png";
 import CountryScope from "../assets/images/projects/CountryScope.png";
 import EmployeeTrack from "../assets/images/projects/EmployeeTrack.png";
 import Blog from "../assets/images/projects/Blog.png";
